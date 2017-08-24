@@ -1,0 +1,25 @@
+{
+  "name": "dnsblapi",
+  "version": "1.0.0",
+  "description": "DNS Blacklist Lookup & Monitoring API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wraythezw/dnsblapi.git"
+  },
+  "keywords": [
+    "DNSBL",
+    "Monitoring",
+    "Lookup",
+    "API"
+  ],
+  "author": "Keith Rose <me@keithro.se> (http://www.keithro.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wraythezw/dnsblapi/issues"
+  },
+  "homepage": "https://github.com/wraythezw/dnsblapi#readme"
+}
